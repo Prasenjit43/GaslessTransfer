@@ -59,6 +59,3 @@ To run the tests, follow these steps:
 
    This will compile the contracts, deploy them to a local Hardhat network, and run the JavaScript tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
