@@ -1,7 +1,5 @@
-# GaslessTransfer
-Transfer of tokens from user X to user Y using  user Z account.
-
 # Gasless Token Transfer
+Transfer of tokens from user X to user Y using  user Z account.
 
 This repository contains a Solidity smart contract and JavaScript tests for performing gasless token transfers using permit signatures.
 
